@@ -1,4 +1,4 @@
-package innogent.java;
+package day2part2.java;
 
 import java.util.ArrayList;
 import java.util.Comparator;
